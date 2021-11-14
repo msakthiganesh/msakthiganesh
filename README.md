@@ -11,3 +11,8 @@ Apart from coding and hyper parameter tuning, I also write articles on Medium.
 - [AI Fairness - A Brief Introduction to AI Fairness 360](https://transformernlp.medium.com/ai-fairness-a-brief-introduction-to-ai-fairness-360-b2e39c96ca49)
 - [Explainability and Interpretability with SHAP and LIT for Language Models](https://transformernlp.medium.com/explainability-and-interpretability-with-shap-and-lit-for-language-models-54a399b954a)
 - [Federated Learning using IBMFL](https://transformernlp.medium.com/federated-learning-using-ibmfl-6af60b94d266)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/static/v1?style=flat&logo=linux&logoColor=2bbc8a&label=OS&message=Linux&color=2bbc8a)
+![](https://img.shields.io/static/v1?style=flat&logo=windows&logoColor=2bbc8a&label=OS&message=Windows&color=2bbc8a)
+![](https://img.shields.io/static/v1?style=flat&logo=apple&logoColor=2bbc8a&label=OS&message=MacOS&color=2bbc8a)
