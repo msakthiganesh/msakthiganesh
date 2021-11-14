@@ -13,6 +13,26 @@ Apart from coding and hyper parameter tuning, I also write articles on Medium.
 - [Federated Learning using IBMFL](https://transformernlp.medium.com/federated-learning-using-ibmfl-6af60b94d266)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/static/v1?style=flat&logo=linux&logoColor=2bbc8a&label=OS&message=Linux&color=2bbc8a)
-![](https://img.shields.io/static/v1?style=flat&logo=windows&logoColor=2bbc8a&label=OS&message=Windows&color=2bbc8a)
-![](https://img.shields.io/static/v1?style=flat&logo=apple&logoColor=2bbc8a&label=OS&message=MacOS&color=2bbc8a)
+
+![](https://img.shields.io/static/v1?style=flat&logo=Python&logoColor=white&label=Code&message=Python&color=blue)
+![](https://img.shields.io/static/v1?style=flat&logo=C++&logoColor=white&label=Code&message=CPP&color=blue)
+![](https://img.shields.io/static/v1?style=flat&logo=C&logoColor=white&label=Code&message=C&color=blue)
+![](https://img.shields.io/static/v1?style=flat&logo=MySQL&logoColor=white&label=Code&message=MySQL&color=blue)
+![](https://img.shields.io/static/v1?style=flat&logo=AngularJS&logoColor=white&label=Code&message=AngularJS&color=blue)
+![](https://img.shields.io/static/v1?style=flat&logo=HTML5&logoColor=white&label=Code&message=HTML&color=blue)
+![](https://img.shields.io/static/v1?style=flat&logo=CSS3&logoColor=white&label=Code&message=CSS&color=blue)
+
+![](https://img.shields.io/static/v1?style=flat&logo=PyTorch&logoColor=white&label=ML&message=PyTorch&color=blueviolet)
+![](https://img.shields.io/static/v1?style=flat&logo=TensorFlow&logoColor=white&label=ML&message=TensorFlow&color=blueviolet)
+![](https://img.shields.io/static/v1?style=flat&logo=scikit-learn&logoColor=white&label=ML&message=scikit-learn&color=blueviolet)
+![](https://img.shields.io/static/v1?style=flat&logo=OpenCV&logoColor=white&label=ML&message=OpenCV&color=blueviolet)
+![](https://img.shields.io/static/v1?style=flat&logo=Pandas&logoColor=white&label=ML&message=Pandas&color=blueviolet)
+![](https://img.shields.io/static/v1?style=flat&logo=Numpy&logoColor=white&label=ML&message=Numpy&color=blueviolet)
+
+![](https://img.shields.io/static/v1?style=flat&logo=MicrosoftAzure&logoColor=white&label=Code&message=Azure&color=important)
+![](https://img.shields.io/static/v1?style=flat&logo=PowerBI&logoColor=white&label=Code&message=PowerBI&color=important)
+![](https://img.shields.io/static/v1?style=flat&logo=Tableau&logoColor=white&label=Code&message=Tableau&color=important)
+
+![](https://img.shields.io/static/v1?style=flat&logo=linux&logoColor=white&label=OS&message=Linux&color=2bbc8a)
+![](https://img.shields.io/static/v1?style=flat&logo=windows&logoColor=white&label=OS&message=Windows&color=2bbc8a)
+![](https://img.shields.io/static/v1?style=flat&logo=apple&logoColor=white&label=OS&message=MacOS&color=2bbc8a)
