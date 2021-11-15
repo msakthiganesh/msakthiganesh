@@ -47,11 +47,11 @@ Apart from coding and hyper parameter tuning, I also write articles on Medium.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=msakthiganesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sakthi's GitHub Stats" />
 </a>
 
-<a href="https://github.com/msakthiganesh/python-project-blueprint">
+<a href="https://github.com/msakthiganesh/TabQGen">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=msakthiganesh&repo=TabQGen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/msakthiganesh/go-project-blueprint">
+<a href="https://github.com/msakthiganesh/Transformers-Model-Parallelism">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msakthiganesh&repo=Transformers-Model-Parallelism&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
