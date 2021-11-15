@@ -2,6 +2,14 @@
 
 My name is Sakthi Ganesh and I'm a Technology Analyst/Machine Learning Engineer. I'm from Bangalore, India and currently working at Infosys Labs. You can find me on [LinkedIn <img src="https://github.com/msakthiganesh/msakthiganesh/blob/main/linkedin_icon.png" width="20px">](https://www.linkedin.com/in/msakthiganesh19/). At present, I'm focusing on building ethical and explainable NLU models.
 
+## :page_with_curl: Publications
+
+- Saichandra Pandraju*, **Sakthi Ganesh Mahalingam***. Answer-Aware Question Generation from Tabular and Textual Data using T5. International Journal of Emerging Technologies in Learning (iJET), 16(18), pp. 256-267. 2021. (* Equal Contribution)   
+   DOI: https://doi.org/10.3991/ijet.v16i18.25121 | Scopus | [GitHub](https://github.com/msakthiganesh/TabQGen)
+
+- **Sakthi Ganesh Mahalingam**, Saichandra Pandraju. Unsupervised Convolutional Filter Learning for COVID 19 Classification. Revue d'Intelligence Artificielle, Vol. 35, No. 5, pp. 425-429. 2021.   
+DOI: https://doi.org/10.18280/ria.350509 | Scopus | [GitHub](https://github.com/msakthiganesh/Unsupervised-Convolutional-Filter-Learning-for-COVID-19-Classification)
+
 ## &#x270d; Articles
 
 Apart from coding and hyper parameter tuning, I also write articles on Medium.
