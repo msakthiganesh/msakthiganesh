@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://github.com/msakthiganesh/msakthiganesh/blob/main/wave.gif" width="30px">
 
-My name is Sakthi Ganesh and I'm a Technology Analyst/Machine Learning Engineer. I'm from Bangalore, India and currently working at Infosys Labs. You can find me on [LinkedIn <img src="https://github.com/msakthiganesh/msakthiganesh/blob/main/linkedin_icon.png" width="20px">](https://www.linkedin.com/in/msakthiganesh19/).
+My name is Sakthi Ganesh and I'm a Technology Analyst/Machine Learning Engineer. I'm from Bangalore, India and currently working at Infosys Labs. You can find me on [LinkedIn <img src="https://github.com/msakthiganesh/msakthiganesh/blob/main/linkedin_icon.png" width="20px">](https://www.linkedin.com/in/msakthiganesh19/). I enjoy analysing computer science problems algorithmically, solving tough & ill-specified problems using machine learning, and learning the unifying mathematical insights behind a variety of fields. At present, I'm focusing on building ethical and explainable NLU models.
 
 ## &#x270d; Articles
 
