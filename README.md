@@ -48,7 +48,7 @@ Apart from coding and hyper parameter tuning, I also write articles on Medium.
 </a>
 
 <a href="https://github.com/msakthiganesh/python-project-blueprint">
-  <img align="center" margin-left = "10px" src="https://github-readme-stats.vercel.app/api/pin/?username=msakthiganesh&repo=TabQGen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=msakthiganesh&repo=TabQGen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
