@@ -12,7 +12,7 @@ DOI: https://doi.org/10.18280/ria.350509 | Scopus | [GitHub](https://github.com/
 
 ## &#x270d; Articles
 
-Apart from coding, fine-tuning and hyper parameter optimization, I also write articles on Medium.
+Apart from coding, fine-tuning, and hyperparameter optimization, I also write articles on Medium.
 
 - [Model Parallelism using Transformers and PyTorch](https://medium.com/msakthiganesh/model-parallelism-using-transformers-and-pytorch-e751cc3e2303)
 - [Biomedical Relation Extraction from PubMed abstracts using Zero-Shot Learning](https://transformernlp.medium.com/biomedical-relation-extraction-from-pubmed-abstracts-using-zero-shot-learning-cd4ebc30a7ff)
