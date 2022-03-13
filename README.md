@@ -23,8 +23,8 @@ Apart from coding, fine-tuning, and hyperparameter optimization, I also write ar
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/static/v1?style=flat&logo=Python&logoColor=white&label=Code&message=Python&color=blue)
-![](https://img.shields.io/static/v1?style=flat&logo=C++&logoColor=white&label=Code&message=CPP&color=blue)
-![](https://img.shields.io/static/v1?style=flat&logo=C&logoColor=white&label=Code&message=C&color=blue)
+<!-- ![](https://img.shields.io/static/v1?style=flat&logo=C++&logoColor=white&label=Code&message=CPP&color=blue)
+![](https://img.shields.io/static/v1?style=flat&logo=C&logoColor=white&label=Code&message=C&color=blue) -->
 ![](https://img.shields.io/static/v1?style=flat&logo=MySQL&logoColor=white&label=Code&message=MySQL&color=blue)
 ![](https://img.shields.io/static/v1?style=flat&logo=AngularJS&logoColor=white&label=Code&message=AngularJS&color=blue)
 ![](https://img.shields.io/static/v1?style=flat&logo=HTML5&logoColor=white&label=Code&message=HTML&color=blue)
