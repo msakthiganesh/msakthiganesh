@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://github.com/msakthiganesh/msakthiganesh/blob/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/msakthiganesh/msakthiganesh/blob/main/wave.gif" width="30">
 
 I'm Sakthi Ganesh, a Technology Analyst in the day and a Machine Learning Engineer in the night. You can find more about me and my work on [LinkedIn <img src="https://github.com/msakthiganesh/msakthiganesh/blob/main/linkedin_icon.png" width="20px">](https://www.linkedin.com/in/msakthiganesh19/). At present, I'm particularly interested/focused on research for building ethical and explainable NLU models at Infosys Labs. Still, a long way to go!
 
